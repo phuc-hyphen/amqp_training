@@ -1,7 +1,11 @@
 # Template for Maven based exercises
 
-[![build workflow](https://github.com/lernejo/maven_starter_template/actions/workflows/build.yml/badge.svg)](https://github.com/lernejo/maven_starter_template/actions)
-[![codecov](https://codecov.io/gh/lernejo/maven_starter_template/branch/main/graph/badge.svg)](https://codecov.io/gh/lernejo/maven_starter_template)
+Build CI:
+[![workflow](https://github.com/phuc-hyphen/ampq_training/actions/workflows/build.yml/badge.svg)](https://github.com/phuc-hyphen/ampq_training/actions/workflows/build.yml)
+
+Code coverage:
+[![codecov](https://codecov.io/gh/phuc-hyphen/ampq_training/branch/main/graph/badge.svg)](https://codecov.io/gh/phuc-hyphen/ampq_training)
+
 
 ## Build the project
 
